@@ -1,9 +1,20 @@
+#+TITLE: Schedule for meeting SSAD students
+#+AUTHOR: VLEAD
+#+DATE: [2017-08-17 Thu]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
 
 
 * Team Meetings Schedule
 
   - 1. Oauth Team :: Monday 3:30 till 5:00 PM
+       Mentor: Yash Verma
   - 2. VLABS Portal :: Tuesday 2:30 till 3:30 PM
-  - 3. Data Visualization :: Tuesday 3:30 till 4:30 PM
+       Mentor: Mohit Chandra
+  - 3. Data Visualization :: Monday 2:30 till 3:30 PM
   - 4. VLEAD Platform ::
-  - 5. VLABS Dashboard :: 
+       Mentor: Jayaganesh
+  - 5. VLABS Dashboard :: Thursday 3:30 till 4:30 PM
+       Mentor: Jayaganesh

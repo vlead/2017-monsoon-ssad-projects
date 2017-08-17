@@ -32,9 +32,13 @@
 |------+----------------------------+------------------------------------------+---------------------|
 |   6. | Re-Narration               |                                          | Sai Gollapudi       |
 |------+----------------------------+------------------------------------------+---------------------|
-|   7. | Lab Data Service Dashboard | Utkarsh Azad                             | Thirumal Ravula     |
+|   7. | Lab Data Service Dashboard | Utkarsh Azad (obliviateandsurrender)     | Thirumal Ravula     |
+|      |                            | Mudit Surana (surana-mudit)              |                     |
+|      |                            | Rahul Bishnoi (nanspro)                  |                     |
 |------+----------------------------+------------------------------------------+---------------------|
-|   8. | Data Visualization         |                                          | Devi Prasad         |
+|   8. | [[https://github.com/vlead/analytics-dashboard][Data Visualization]]         | Sushmitha Rajeswari (Sushmitha98)        | Devi Prasad         |
+|      |                            | Kaushik (komallapalli)                   |                     |
+|      |                            | Hitesh (hitesh56)                        |                     |
 |------+----------------------------+------------------------------------------+---------------------|
 |   9. | Automate Cluster creation  |                                          | Siva Sankar         |
 |      | for a certain performance  |                                          |                     |
