@@ -1,0 +1,46 @@
+#+TITLE: Projects allocated to students
+#+AUTHOR: VLEAD
+#+DATE: [2017-08-09 Wed]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+
+* Introduction
+  This document lists the allocation of projects proposed by
+  VLEAD to students. 
+
+
+* Projects Allocated
+|------+----------------------------+-----------------------------------+---------------------|
+| S.no | Project Name               | Students                          | Mentor Name         |
+|------+----------------------------+-----------------------------------+---------------------|
+|   1. | Experiment as a service    | Sounak Pradhan                    | Thirumal Ravula     |
+|------+----------------------------+-----------------------------------+---------------------|
+|   2. | Virtual Labs Portal        | Maheesurya (blazingeagle1002)     | Devi Prasad         |
+|      |                            | Surendra Telidevara (surendra     |                     |
+|------+----------------------------+-----------------------------------+---------------------|
+|   3. | Lab Authoring Platform     |                                   | Lalit               |
+|------+----------------------------+-----------------------------------+---------------------|
+|   4. | Oauth for VLEAD services   | Shubh Maheshwari(shubhMaheshwari) | Thirumal Ravula     |
+|      |                            | Himansh Sheoran (                 |                     |
+|      |                            | Lovish Narang   (                 |                     |
+|------+----------------------------+-----------------------------------+---------------------|
+|   5. | User Directory             | Anirudh Reddy                     | Venkatesh Choppella |
+|------+----------------------------+-----------------------------------+---------------------|
+|   6. | Re-Narration               |                                   | Sai Gollapudi       |
+|------+----------------------------+-----------------------------------+---------------------|
+|   7. | Lab Data Service Dashboard | Utkarsh Azad                      | Thirumal Ravula     |
+|------+----------------------------+-----------------------------------+---------------------|
+|   8. | Data Visualization         |                                   | Devi Prasad         |
+|------+----------------------------+-----------------------------------+---------------------|
+|   9. | Automate Cluster creation  |                                   | Siva Sankar         |
+|      | for a certain performance  |                                   |                     |
+|------+----------------------------+-----------------------------------+---------------------|
+|  10. | Data structures lab        | Kanay Gupta                       | Venkatesh Choppella |
+|------+----------------------------+-----------------------------------+---------------------|
+|  11. | Systems Dashboard          |                                   | Thirumal Ravula     |
+|------+----------------------------+-----------------------------------+---------------------|
+|  12. | Linux Lab                  | Nikhil Bansal                     | Venkatesh Choppella |
+|------+----------------------------+-----------------------------------+---------------------|

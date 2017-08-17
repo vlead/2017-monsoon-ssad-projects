@@ -1,0 +1,17 @@
+#+TITLE: Sample Time sheet
+#+AUTHOR: Intern's name
+#+DATE: [2017-06-01 Fri]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document holds the time sheets for my work during the
+  SSAD course at IIIT Hyderabad
+
+* Month of August
+** week 1 [2017-08-14 Mon] till [2017-08-20 Sun]
+   Link to issues and other documentation in the sources. 
+
+* Month of September

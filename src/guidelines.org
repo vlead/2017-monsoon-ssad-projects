@@ -1,0 +1,69 @@
+#+TITLE: Guidelines for realization of VLEAD SSAD projects.
+#+AUTHOR: VLEAD
+#+DATE: [2017-08-11 Fri]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Repository for the realization
+  Each project is realized as one or more repositories under
+  [[https://github.com/vlead/][vlead]] organization.  Each team will follow
+  [[https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows#wfdiag_b][integration-manager]] workflow.  The team will work on a
+  forked repository and the mentor will merge to the blessed
+  repository upon pull requests.  This way, the mentor is
+  forced to review the realization documents.  If SSAD
+  course mandates it's own repo, please refer to the vlead
+  repo in the readme of the ssad repo. 
+
+* Realization is in terms of milestones.
+  We will follow [[agile]] software development and use [[https://www.scrumalliance.org/why-scrum][scrum]]
+  methodology to incrementally working software.  Every
+  project has a product backlog.  In each sprint, items from
+  the product backlog are picked to be realized in a
+  milestone.  Each item from a product backlog translates to
+  one or more tasks and each task is tracked as an issue on
+  github.  A milestone is a collection of issues.  It is
+  upto the mentor and the team to choose either one or two
+  week sprints.
+
+  Each release is working software and a release determines
+  the achievement of a milestone.  A project is realized as
+  a series of milestones.
+
+  This planning will be part of the master repo in the vlead
+  organization. 
+
+* Discussion is only through issues.
+  Every discussion about the project will be through
+  issues.  Mails are not used for discussion.
+
+* Total person hours
+  40 hours, I will find out from Prof. Raghu.
+
+* Team Meetings
+
+  - 1. Oauth Team :: Monday 3:30 till 5:00 PM
+  - 2. VLABS Portal :: Tuesday 2:30 till 3:30 PM
+  - 3. Data Visualization :: Tuesday 3:30 till 4:30 PM
+  - 4. VLEAD Platform ::
+  - 5. VLABS Dashboard :: 
+
+* Development Environment
+  Literate style is used for the realization of projects.
+  Emacs and Org are are equipped to support literate
+  programming.  
+
+  VLEAD has published a [[http://files.vlabs.ac.in/downloads/vagrant-boxes/vlead-dev.box][vagrant box]] to support the
+  development environment at VLEAD.  Please follow the
+  [[https://github.com/vlead/vlead-onboarding/blob/master/src/set-up-vlead-dev-vagrant-box.org][documentation]] to set up the vlead dev environment as a
+  vagrant box. 
+
+* Work logs
+  The work logs of each student are pushed to this
+  repository to the =work-logs= folder. 
+    
+
+
+
+
