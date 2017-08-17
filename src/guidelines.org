@@ -41,14 +41,6 @@
 * Total person hours
   40 hours, I will find out from Prof. Raghu.
 
-* Team Meetings
-
-  - 1. Oauth Team :: Monday 3:30 till 5:00 PM
-  - 2. VLABS Portal :: Tuesday 2:30 till 3:30 PM
-  - 3. Data Visualization :: Tuesday 3:30 till 4:30 PM
-  - 4. VLEAD Platform ::
-  - 5. VLABS Dashboard :: 
-
 * Development Environment
   Literate style is used for the realization of projects.
   Emacs and Org are are equipped to support literate
