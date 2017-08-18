@@ -28,7 +28,9 @@
 |      |                            | Himansh Sheoran (sheoranhimansh)         |                     |
 |      |                            | Lovish Narang   (naranglovish)           |                     |
 |------+----------------------------+------------------------------------------+---------------------|
-|   5. | User Directory             | Anirudh Reddy                            | Venkatesh Choppella |
+|   5. | User Directory             | Anirudh Reddy(anirudh456)                | Venkatesh Choppella |
+|      |                            | Anvesh Chaturvedi(anveshc05)             |                     |
+|      |                            | Yudhik Agrawal(yudhik11)                 |                     |
 |------+----------------------------+------------------------------------------+---------------------|
 |   6. | Re-Narration               |                                          | Sai Gollapudi       |
 |------+----------------------------+------------------------------------------+---------------------|
@@ -40,12 +42,12 @@
 |      |                            | Kaushik (komallapalli)                   |                     |
 |      |                            | Hitesh (hitesh56)                        |                     |
 |------+----------------------------+------------------------------------------+---------------------|
-|   9. | Automate Cluster creation  |                                          | Siva Sankar         |
+|   9. | Data structures lab        | Kanay Gupta                              | Venkatesh Choppella |
+|------+----------------------------+------------------------------------------+---------------------|
+|  10. | Linux Lab                  | Nikhil Bansal                            | Venkatesh Choppella |
+|------+----------------------------+------------------------------------------+---------------------|
+|  11. | Automate Cluster creation  |                                          | Siva Sankar         |
 |      | for a certain performance  |                                          |                     |
 |------+----------------------------+------------------------------------------+---------------------|
-|  10. | Data structures lab        | Kanay Gupta                              | Venkatesh Choppella |
-|------+----------------------------+------------------------------------------+---------------------|
-|  11. | Systems Dashboard          |                                          | Thirumal Ravula     |
-|------+----------------------------+------------------------------------------+---------------------|
-|  12. | Linux Lab                  | Nikhil Bansal                            | Venkatesh Choppella |
+|  12. | Systems Dashboard          |                                          | Thirumal Ravula     |
 |------+----------------------------+------------------------------------------+---------------------|

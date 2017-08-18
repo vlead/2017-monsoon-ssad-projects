@@ -1,7 +1,20 @@
-#+TITLE: 
-#+AUTHOR:VLEAD
-#+DATE:
+#+TITLE: SSAD projects at VLEAD
+#+AUTHOR: VLEAD
+#+DATE: [2017-08-18 Fri]
 #+SETUPFILE: ./org-templates/level-0.org
 #+TAGS: boilerplate(b)
 #+EXCLUDE_TAGS: boilerplate
 #+OPTIONS: ^:nil
+
+
+* Introduction
+  This document holds information about the ssad projects
+  pursued at VLEAD during monsoon semester of 2017.
+
+* [[./projects-proposed.org][Projects Proposed]]
+  
+* [[./projects-allocated.org][Projects Allocated]]
+* [[./guidelines.org][Guidelines]]
+
+* [[./team-meeting-schedule.org][Meeting Schedule]]
+* [[./work-logs/index.org][Work Logs]]

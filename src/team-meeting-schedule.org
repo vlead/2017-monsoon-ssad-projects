@@ -12,9 +12,11 @@
   - 1. Oauth Team :: Monday 3:30 till 5:00 PM
        Mentor: Yash Verma
   - 2. VLABS Portal :: Tuesday 2:30 till 3:30 PM
-       Mentor: Mohit Chandra
+       - Mentor: Mohit Chandra
   - 3. Data Visualization :: Monday 2:30 till 3:30 PM
   - 4. VLEAD Platform ::
-       Mentor: Jayaganesh
+       - Mentor: Jayaganesh
   - 5. VLABS Dashboard :: Thursday 3:30 till 4:30 PM
-       Mentor: Jayaganesh
+       - Mentor: Jayaganesh
+  - 6. User Directory :: Friday 2:30 till 3:30 PM
+       - Mentor: Jayaganesh

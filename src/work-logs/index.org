@@ -1,0 +1,14 @@
+#+TITLE: Index of Work logs
+#+AUTHOR: VLEAD
+#+DATE: [2017-08-18 Fri]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+
+* Introduction
+  This document holds the work logs of all the students
+  involved with ssad projects at VLEAD.
+
+* [[./sample.org][Sample Work Log]]
