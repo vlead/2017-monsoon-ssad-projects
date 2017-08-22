@@ -16,7 +16,9 @@
 |------+----------------------------+------------------------------------------+---------------------|
 | S.no | Project Name               | Students                                 | Mentor Name         |
 |------+----------------------------+------------------------------------------+---------------------|
-|   1. | Experiment as a service    | Sounak Pradhan                           | Thirumal Ravula     |
+|   1. | Experiment as a service    | Sounak Pradhan (sounak98)                | Thirumal Ravula     |
+|      |                            | Arghya Bhattacharya (arghyatiger)        |                     |
+|      |                            | S Shashank (talsperre)                   |                     |
 |------+----------------------------+------------------------------------------+---------------------|
 |   2. | [[https://github.com/vlead/vlabs-landing-pages][Virtual Labs Portal]]        | Maheesurya (blazingeagle1002)            | Devi Prasad         |
 |      |                            | Surendra Telidevara (SurendraTelidevara) |                     |
@@ -42,7 +44,9 @@
 |      |                            | Kaushik (komallapalli)                   |                     |
 |      |                            | Hitesh (hitesh56)                        |                     |
 |------+----------------------------+------------------------------------------+---------------------|
-|   9. | Data structures lab        | Kanay Gupta                              | Venkatesh Choppella |
+|   9. | Data structures lab        | Kanay Gupta (kanaygupta)                 | Venkatesh Choppella |
+|      |                            | Aashish Gaba (ishucr7)                   |                     |
+|      |                            | Mohd Ali (alirizwi)                      |                     |
 |------+----------------------------+------------------------------------------+---------------------|
 |  10. | Linux Lab                  | Nikhil Bansal                            | Venkatesh Choppella |
 |------+----------------------------+------------------------------------------+---------------------|
