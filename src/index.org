@@ -7,6 +7,9 @@
 #+OPTIONS: ^:nil
 
 
+* First things first
+  Clone this repository and build the repo by running make.
+  This gives a feel to what lies ahead. 
 * Introduction
   This document holds information about the ssad projects
   pursued at VLEAD during monsoon semester of 2017.

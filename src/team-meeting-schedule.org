@@ -8,18 +8,21 @@
 
 
 * Team Meetings Schedule
+|------+--------------------+-----------------------------+---------------|
+| S.no | Team               | Time                        | Mentor        |
+|------+--------------------+-----------------------------+---------------|
+|   1. | Data Visualization | Monday 2:30 till 3:30 PM    |               |
+|------+--------------------+-----------------------------+---------------|
+|   2. | Data Structures    | Tuesday 9:15 till 10:00 AM  | Yash Vermae   |
+|------+--------------------+-----------------------------+---------------|
+|   3. | VLABS Portal       | Tuesday 2:30 till 3:30 PM   | Mohit Chandra |
+|------+--------------------+-----------------------------+---------------|
+|   4. | Oauth Team         | Wednesday 2:30 till 3:30 PM | Yash Vermae   |
+|------+--------------------+-----------------------------+---------------|
+|   5. | VLEAD Platform     | Wednesday 4:00 till 5:00 PM | Jayaganesh    |
+|------+--------------------+-----------------------------+---------------|
+|   6. | VLABS Dashboard    | Thursday 3:30 till 4:30 PM  | Jayaganesh    |
+|------+--------------------+-----------------------------+---------------|
+|   7. | User Directory     | Friday 2:30 till 3:30 PM    | Jayaganesh    |
+|------+--------------------+-----------------------------+---------------|
 
-  - 1. Oauth Team :: Monday 3:30 till 4:30 PM
-    - Mentor: Yash Verma
-  - 2. VLABS Portal :: Tuesday 2:30 till 3:30 PM
-    - Mentor: Mohit Chandra
-  - 3. Data Visualization :: Monday 2:30 till 3:30 PM
-  - 4. VLEAD Platform :: Wednesday 4:00 till 5:00 PM
-    - Mentor: Jayaganesh
-  - 5. VLABS Dashboard :: Thursday 3:30 till 4:30 PM
-    - Mentor: Jayaganesh
-  - 6. User Directory :: Friday 2:30 till 3:30 PM
-    - Mentor: Jayaganesh
-  - 7. Data Structures :: Wednesday 2:30 till 3:30 PM
-    - Mentor: Yash Verma
- 

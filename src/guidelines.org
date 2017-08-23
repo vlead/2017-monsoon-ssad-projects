@@ -51,6 +51,37 @@
   [[https://github.com/vlead/vlead-onboarding/blob/master/src/set-up-vlead-dev-vagrant-box.org][documentation]] to set up the vlead dev environment as a
   vagrant box. 
 
+* Things done at the weekly meeting
+  1. Every meeting starts with a presentation of the code
+     documents and a demonstration.
+  2. The pull/merge request is reviewed at the meeting.
+  3. Task planning for the next week is discussed.
+
+* Structure of the repository
+  
+  #+BEGIN_EXAMPLE
+  |--makefile
+  |--init.sh
+  |--.gitignore
+  |--src
+      \-- index.org
+      \-- requirements
+      \-- data-model
+      \-- design
+      \-- runtime
+      \-- realization-plan
+      \-- deployment
+  #+END_EXAMPLE
+
+  - requirements are captured in index.org file in =requirements= directory.
+  - same with all other artifacts.
+  - code that runs goes into various documents in runtime
+    directory.
+  - realization plan will capture the requirements to
+    milestones and issues mapping. 
+  
+  Please look at [[https://gitlab.com/itws2/web-app-short-course][web-app-short-course]] for reference.
+
 * Work logs
   The work logs of each student are pushed to this
   repository to the =work-logs= folder. 
