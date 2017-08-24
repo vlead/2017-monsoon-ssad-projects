@@ -44,11 +44,13 @@
 |      |                            | Kaushik (komallapalli)                   |                     |
 |      |                            | Hitesh (hitesh56)                        |                     |
 |------+----------------------------+------------------------------------------+---------------------|
-|   9. | Data structures lab        | Kanay Gupta (kanaygupta)                 | Venkatesh Choppella |
+|   9. | [[Data structures lab]]        | Kanay Gupta (kanaygupta)                 | Venkatesh Choppella |
 |      |                            | Aashish Gaba (ishucr7)                   |                     |
 |      |                            | Mohd Ali (alirizwi)                      |                     |
 |------+----------------------------+------------------------------------------+---------------------|
-|  10. | Linux Lab                  | Nikhil Bansal                            | Venkatesh Choppella |
+|  10. | [[https://github.com/Virtual-Labs/linux-lab-iiith][Linux Lab]]                  | Mahathi Vempati (tinkidinki)             | Venkatesh Choppella |
+|      |                            | Arpita Dash (arpitadash)                 |                     |
+|      |                            | Anukul Sangwan (anukul)                  |                     |
 |------+----------------------------+------------------------------------------+---------------------|
 |  11. | Automate Cluster creation  |                                          | Siva Sankar         |
 |      | for a certain performance  |                                          |                     |
