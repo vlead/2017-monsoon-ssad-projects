@@ -55,7 +55,26 @@
   1. Every meeting starts with a presentation of the code
      documents and a demonstration.
   2. The pull/merge request is reviewed at the meeting.
-  3. Task planning for the next week is discussed.
+  3. Task planning for the next week is discussed.  The
+     students take the meeting notes.  The meeting notes has
+     the following structure.  From the meeting, action
+     items are thrashed out and are listed.  This file is
+     also part of the repository.  This file ==meeting.org=
+     is placed under src/realization-plan directory.
+
+     #+BEGIN_EXAMPLE
+     * [2017-09-01 Fri]
+     ** Agenda
+     ** Discussion Points
+     ** Action
+     |------------------+---------+--------------+-------------+---|
+     | Item             | Issue   | Artifact     | Status      |   |
+     |------------------+---------+--------------+-------------+---|
+     | Implement filter | Link to | link to file | In progress |   |
+     |                  | issue   | in the repo  |             |   |
+     |------------------+---------+--------------+-------------+---|
+
+     #+END_EXAMPLE
 
 * Structure of the repository
   
