@@ -57,10 +57,10 @@
   2. The pull/merge request is reviewed at the meeting.
   3. Task planning for the next week is discussed.  The
      students take the meeting notes.  The meeting notes has
-     the following structure.  From the meeting, action
-     items are thrashed out and are listed.  This file is
-     also part of the repository.  This file ==meeting.org=
-     is placed under src/realization-plan directory.
+     the below structure.  From the meeting, action items
+     are thrashed out and are listed.  This file is also
+     part of the repository.  This file =meeting.org= is
+     placed under src/realization-plan directory.
 
      #+BEGIN_EXAMPLE
      * [2017-09-01 Fri]
